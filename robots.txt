@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingaeyeer.kevinberonilla.com/sitemap.xml
